@@ -1,1 +1,16 @@
-README: Current Functionality: Navigation bar for Home and Products is all the currently works EXTRA: Your can click on any of the four images on the first row of the products page
+README: 
+
+New Updates  
+- Product page 
+  - can select size and color (color and border change when selected) 
+  - add cart button updates cart tab (numbers change on navigation bar) 
+  
+- Cart Page added 
+  - layout of how items will be on the cart page
+
+Note: more implementation for 6b
+
+
+
+
+
